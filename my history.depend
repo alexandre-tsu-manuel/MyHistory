@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1337010007 source:c:\users\prjdelphi\desktop\prog.c\my history\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+
+1335980542 source:c:\users\prjdelphi\desktop\prog.c\my history\ressources.rc
+
